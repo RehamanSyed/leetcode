@@ -12,7 +12,14 @@ Welcome to the Daily LeetCode Problem Solving repository! This project is design
    cd leetcode
 
 
-Contributing
+Problem Synopsis
+
+1. Two Sum
+
+
+
+## Contributing
+
 Feel free to contribute your solutions in different programming languages or provide optimizations to existing solutions. Follow these steps to contribute:
 
 Fork the repository.
