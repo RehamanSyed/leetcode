@@ -10,3 +10,13 @@ Welcome to the Daily LeetCode Problem Solving repository! This project is design
    ```bash
    git clone https://github.com/RehamanSyed/leetcode.git
    cd leetcode
+
+
+Contributing
+Feel free to contribute your solutions in different programming languages or provide optimizations to existing solutions. Follow these steps to contribute:
+
+Fork the repository.
+Create a new branch for your contribution: git checkout -b feature/your-feature.
+Commit your changes: git commit -am 'Add your feature'.
+Push to your branch: git push origin feature/your-feature.
+Submit a pull request.

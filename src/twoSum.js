@@ -29,7 +29,7 @@ function twoSum(nums, target) {
     }
   }
 }
-const result = twoSum(nums, target);
-console.log("Two Sum Result", result);
+// const result = twoSum(nums, target);
+// console.log("Two Sum Result", result);
 
 module.exports = twoSum;
