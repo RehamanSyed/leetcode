@@ -4,3 +4,10 @@ Example :
 input : 123
 output :321
 */
+
+function reverseInteger() {
+  console.log("Hi this is reverseInterget");
+  return null;
+}
+const reverseInt = reverseInteger();
+console.log(reverseInt);
